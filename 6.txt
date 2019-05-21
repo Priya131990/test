@@ -1,0 +1,11 @@
+var arr1 = [1,2,3,4,5];
+
+var len = arr1.lengh();
+for (int i=0; i<len; i++)
+  {
+    arr1[i]= arr1[i]*6; 
+  }
+
+arr1[3].pop;
+arr1.push(36,48);
+console.log(arr1);
