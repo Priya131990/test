@@ -1,0 +1,31 @@
+{
+  "resturants": [
+    {
+      "name": "Leela",
+      "phoneno": "8888888888",
+      "ratings": "5 Star",
+      "address": 
+      {
+         "buildingno": "5",
+          "street" : "Leela",
+          "area" : "Udhog Vihar",
+          "city" : "gurgaon",
+      }
+      
+     },
+    {
+      "name": "haldirams",
+      "phoneno": "333333333",
+      "ratings": "3 Star",
+      "address": 
+      {
+         "buildingno": "1",
+          "street" : "MG Road",
+          "area" : "Shara Mall",
+          "city" : "gurgaon",
+      }
+      
+     }
+    
+  ]
+}
